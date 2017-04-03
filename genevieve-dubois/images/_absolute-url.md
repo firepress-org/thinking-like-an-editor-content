@@ -75,8 +75,11 @@ https://raw.githubusercontent.com/firepress-org/thinking-like-an-editor-content/
 
 ---
 
-# random
+### random
 https://raw.githubusercontent.com/firepress-org/thinking-like-an-editor-content/master/genevieve-dubois/images/_random/logo-firepress-310-110.png
 
-# welcome
+### welcome
 https://raw.githubusercontent.com/firepress-org/thinking-like-an-editor-content/master/genevieve-dubois/images/welcome.jpg
+
+### abstract-background.jpg
+https://raw.githubusercontent.com/firepress-org/thinking-like-an-editor-content/master/genevieve-dubois/images/abstract-background.jpg

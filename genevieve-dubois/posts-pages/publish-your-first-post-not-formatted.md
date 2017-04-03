@@ -1,7 +1,7 @@
-Getting Started
-Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!
+Formatting your content
+Markdown is a very simple formatting syntax for you content. Think about the looks these elements: headers, bold, bulleted lists, link, inserting a picture, etc. It was originally designed to be an easy alternative to HTML. It allows everyone to publish web pages with no HTML experience.
 
-Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use shortcuts to style your content. For example, a list:
+In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use shortcuts to style your content.
 
 
 Bold, italic
@@ -9,14 +9,12 @@ Who does not love putting stuff in bold... you know what I mean?
 
 
 Links
-Want to link to a source? No problem. If you paste in a URL, like http://ghost.org - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to the Ghost website. Neat.
-
+Want to link to a source? No problem. If you paste in a URL, like http://firepress.org/ — it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to go on FirePress page.
 
 What about Images?
 Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:
 
-(image placeholder)
-
+(add picture here)
 
 Lists
 Item number one
@@ -31,8 +29,6 @@ Drink the milk
 sub item a
 sub item b
 Tweet that I remembered to buy the milk, and drank it
-
-
 Quoting
 Sometimes a link isn't enough, you want to quote someone on what they've said. Perhaps you've started using a new blogging platform and feel the sudden urge to share their slogan? A quote might be just the way to do it!
 
@@ -59,4 +55,4 @@ Got a streak of geek? We've got you covered there, too.
 
 
 Embed a youTube video
-(video placeholder)
+(add picture here)
