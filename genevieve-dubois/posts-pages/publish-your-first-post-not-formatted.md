@@ -44,7 +44,7 @@ Throw 3 or more dashes down on any new line and you've got yourself a fancy new 
 
 
 Working with Code
-Got a streak of geek? We've got you covered there, too. You can write inline <code> blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.
+Got a streak of geek? We've got you covered there, too.
 
 <!-- Google Analytics, update 'UA-XxXxXxXx-X' with your own ID -->  
 <script>  
