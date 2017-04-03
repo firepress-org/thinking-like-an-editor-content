@@ -2,7 +2,7 @@
 https://raw.githubusercontent.com/firepress-org/thinking-like-an-editor-content/master/genevieve-dubois/images/xyz.jpg
 
 ### core-blog-cover.jpg
-https://raw.githubusercontent.com/firepress-org/thinking-like-an-editor-content/master/genevieve-dubois/images/core-blog-cover.jpg
+https://raw.githubusercontent.com/firepress-org/thinking-like-an-editor-content/master/genevieve-dubois/images/core-blog-cover-b.jpg
 
 ### core-author-cover.jpg (user Sara)
 https://raw.githubusercontent.com/firepress-org/thinking-like-an-editor-content/master/genevieve-dubois/images/core-author-cover.jpg
